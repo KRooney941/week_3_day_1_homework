@@ -1,0 +1,45 @@
+body{
+    margin: 2%;
+    background-color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body > header {
+    background-color: skyblue;
+    color: white;
+}
+
+header > nav > ul >li{
+    list-style: none;
+}
+
+body > footer > p{
+    background-color: skyblue;
+    padding: 16px;
+    color: white;
+    text-align: center;
+}
+
+#logo {
+    margin: 0%;
+    font-family:Arial, Helvetica, sans-serif ;
+}
+
+header > nav > ul > li > a {
+    color:white;
+    margin: 80%;
+    padding: 30px;
+    position: relative;
+    bottom: 20px;
+}
+
+img {
+    float:left;
+    bottom: 500px;
+}
+
+
+
+
+
+
